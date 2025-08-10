@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    
+    <!-- 背景渐变 -->
+    <path
+        android:fillColor="#1E1E1E"
+        android:pathData="M0,0h320v180h-320z"/>
+    
+    <!-- 装饰性元素 -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M0,0h320v20h-320z"/>
+    
+    <!-- 电视图标 -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M40,50h80c3.3,0 6,2.7 6,6v60c0,3.3 -2.7,6 -6,6H40c-3.3,0 -6,-2.7 -6,-6V56C34,52.7 36.7,50 40,50z"/>
+    
+    <!-- 电视屏幕 -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M44,54h72v52H44z"/>
+    
+    <!-- 信号条 -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M52,70h3v12h-3z"/>
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M58,67h3v15h-3z"/>
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M64,64h3v18h-3z"/>
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M70,61h3v21h-3z"/>
+    
+    <!-- 应用名称 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M140,80h160v20h-160z"/>
+    
+    <!-- 功能描述 -->
+    <path
+        android:fillColor="#B3FFFFFF"
+        android:pathData="M140,110h160v15h-160z"/>
+    
+    <!-- 装饰性线条 -->
+    <path
+        android:strokeColor="#2196F3"
+        android:strokeWidth="2"
+        android:pathData="M140,70L300,70"/>
+</vector>

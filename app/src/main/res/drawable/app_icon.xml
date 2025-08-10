@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- 背景圆形 -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M54,54m-48,0a48,48 0,1 1,96 0a48,48 0,1 1,-96 0"/>
+    
+    <!-- 电视图标 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,25h48c2.2,0 4,1.8 4,4v30c0,2.2 -1.8,4 -4,4H30c-2.2,0 -4,-1.8 -4,-4V29C26,26.8 27.8,25 30,25z"/>
+    
+    <!-- 电视屏幕 -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M32,27h44v26H32z"/>
+    
+    <!-- 信号条 -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M36,35h2v8h-2z"/>
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M40,33h2v10h-2z"/>
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M44,31h2v12h-2z"/>
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M48,29h2v14h-2z"/>
+    
+    <!-- 天线 -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:pathData="M54,20L54,25"/>
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:pathData="M48,18L60,18"/>
+</vector>

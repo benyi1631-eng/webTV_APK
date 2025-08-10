@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">安卓电视直播</string>
+    <string name="channel_name">频道名称</string>
+    <string name="play_pause">播放/暂停</string>
+    <string name="back">返回</string>
+    <string name="search_channels">搜索频道</string>
+    <string name="favorites">收藏</string>
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+    <string name="loading">加载中...</string>
+    <string name="no_channels">暂无频道</string>
+    <string name="error_loading">加载失败</string>
+    <string name="retry">重试</string>
+    <string name="channel_unavailable">频道不可用</string>
+    <string name="searching_sources">搜索视频源中...</string>
+    <string name="sources_found">找到 %d 个视频源</string>
+    <string name="no_sources_found">未找到可用视频源</string>
+</resources>
